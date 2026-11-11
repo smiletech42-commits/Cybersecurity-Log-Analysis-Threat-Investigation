@@ -77,6 +77,8 @@ The investigation was organised into five major analytical areas.
 - Failed login patterns by day of the week and hour.
 - Employee accounts with the highest failed login attempts.
 - Identification of repeated failed logins followed by successful authentication.
+  <img width="1121" height="633" alt="rrr" src="https://github.com/user-attachments/assets/8dab249e-4592-404e-bcef-737cfe5d924a" />
+
 
 ### 2. IP Address Investigation
 
@@ -191,6 +193,4 @@ Beyond identifying unusual activities, the project demonstrates the ability to t
 
 **Industry:** Cybersecurity / Information Technology  
 **Database:** MySQL  
-**Data:** Fictional training dataset  
-**Project Group:** Group A  
-**Organisation:** Tech Studio Academy
+**Data:** Fictional training dataset
